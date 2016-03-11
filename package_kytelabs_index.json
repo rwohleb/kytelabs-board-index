@@ -1,0 +1,29 @@
+{
+    "packages": [{
+        "name": "kytelabs",
+        "maintainer": "Kytelabs",
+        "websiteURL": "https://bleduino.cc",
+        "email": "hello@bleduino.cc",
+        "help": {
+            "online": "http://forum.bleduino.cc"
+        },
+        "platforms": [{
+            "name": "Kytelabs BLEduino Boards",
+            "architecture": "avr",
+            "version": "1.0.0",
+            "category": "Contributed",
+            "url": "https://raw.githubusercontent.com/rwohleb/kytelabs-board-index/master/boards/kytelabs-avr-1.0.0.tar.gz",
+            "archiveFileName": "kytelabs-avr-1.0.0.tar.gz",
+            "checksum": "SHA-256:79dad2919f67e0a6747c91e491836795c4f0e19ed055ac5be3786d14d0527ba0",
+            "size": "102042",
+            "help": {
+                "online": "http://forum.bleduino.cc"
+            },
+            "boards": [{
+                "name": "BLEduino"
+            }],
+            "toolsDependencies": []
+        }],
+        "tools": []
+    }]
+}
