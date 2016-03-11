@@ -20,7 +20,7 @@
                 "online": "http://forum.bleduino.cc"
             },
             "boards": [
-                {"name": "BLEduino"},
+                {"name": "BLEduino"}
             ],
             "toolsDependencies": []
         }]
