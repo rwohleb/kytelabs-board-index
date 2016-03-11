@@ -12,7 +12,7 @@
             "architecture": "avr",
             "version": "1.0.0",
             "category": "Contributed",
-            "url": "https://rwohleb.github.io/kytelabs-board-index/boards/kytelabs-avr-1.0.0.tar.gz",
+            "url": "https://raw.githubusercontent.com/rwohleb/kytelabs-board-index/master/boards/kytelabs-avr-1.0.0.tar.gz",
             "archiveFileName": "kytelabs-avr-1.0.0.tar.gz",
             "checksum": "SHA-256:79dad2919f67e0a6747c91e491836795c4f0e19ed055ac5be3786d14d0527ba0",
             "size": "102042",
