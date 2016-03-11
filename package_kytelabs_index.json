@@ -19,10 +19,11 @@
             "help": {
                 "online": "http://forum.bleduino.cc"
             },
-            "boards": [
-                {"name": "BLEduino"}
-            ],
+            "boards": [{
+                "name": "BLEduino"
+            }],
             "toolsDependencies": []
-        }]
+        }],
+        "tools": []
     }]
 }
