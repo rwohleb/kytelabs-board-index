@@ -3,7 +3,7 @@ sudo: false
 before_install:
   - source <(curl -SLs https://rwohleb.github.io/kytelabs-board-index/travis-ci/install.sh)
 script:
-  - build_platform kytelabs:avr:bleduino
+  - build_platform bleduino
 branches:
   only:
     - gh-pages
